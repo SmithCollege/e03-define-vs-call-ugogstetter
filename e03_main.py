@@ -13,3 +13,7 @@ def function3 (num):
 
 # TODO:
 # we can call these functions too!. Do so under this line
+
+function1()
+function2()
+function3(10)
